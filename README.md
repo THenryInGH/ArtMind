@@ -28,7 +28,7 @@ npm run dev
 ```
 
 ## Live Demo
-A deployed version of the project is available on Netlify: **[ArtMind on Netlify](your-netlify-link-here)** (Only frontend available)
+A deployed version of the project is available on Netlify: **[ArtMind on Netlify](https://endearing-bonbon-d2a3b3.netlify.app/)** (Only frontend available)
 
 ## Roadmap
 - [x] Implement UI for journaling features
