@@ -17,7 +17,7 @@ ArtMind is a web-based journaling platform that enables users to express their e
 To run the project locally:
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ArtMind.git
+git clone [https://github.com/THenryInGH/ArtMind.git](https://github.com/THenryInGH/ArtMind)
 cd ArtMind
 
 # Install dependencies
